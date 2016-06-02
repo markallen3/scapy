@@ -60,7 +60,7 @@ of function calls, packet creations, etc.).
 
 ### Coding style & conventions
 
-First, Scapy "legacy" code contains a lot of code that do not comply
+First, Scapy "legacy" code contains a lot of code that does not comply
 with the following recommendations, but we try to comply with the some
 guidelines for new code.
 
